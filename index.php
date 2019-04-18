@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>TL Token Site</title>
+  <title>Token Site</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
@@ -19,11 +19,11 @@ loop="infinite" width="60%">NO CHECKPOINT 100% SAVE
 <br><br>
 <center>
 <div class="TL">
-<a href="https://www.Facebook.com/richr0" alt="TL" target="_blank">
+<a href="https://www.Facebook.com/1000053349001465" alt="TL" target="_blank">
 <img
-src="https://graph.facebook.com/100026269890009/picture?type=large" alt="Designer_&amp;_Developer" style="border-radius: 99em; border: 2px; box-shadow: 0px 0px 9px 7px rgb(204, 204, 204); padding: 0px;" width="200" height="200"></a>
+src="https://graph.facebook.com/1000053349001465/picture?type=large" alt="Designer_&amp;_Developer" style="border-radius: 99em; border: 2px; box-shadow: 0px 0px 9px 7px rgb(204, 204, 204); padding: 0px;" width="200" height="200"></a>
 <div class="container">
-<marquee behavior="scroll" direction="left" scrollamount="8" scrolldelay="1"><strong><font style="text-shadow: 1px 1px black; color:;" size="4">RICHARD ANIM THE UNBEATABLE BOT MAKER</font></strong></center></marquee>
+<marquee behavior="scroll" direction="left" scrollamount="8" scrolldelay="1"><strong><font style="text-shadow: 1px 1px black; color:;" size="4">IKRAM HUSSAIN THE UNBEATABLE BOT MAKER</font></strong></center></marquee>
   <center><font color="Red" size="+1"><marquee bgcolor="" direction="right" 
 loop="infinite" width="60%"><strong>LEGENGS BOT TEAM
 </strong></marquee></font></center></div></div></font>
@@ -50,14 +50,14 @@ Download Legends Apk <a href="https://files.appsgeyser.com/LEGENDS%20TECH_857003
 <center></li></p>👉 <a href="index.php" target="_blank">IPHONE TOKEN👈</a><br>
        <Br>
      <Br>   
-<center><a href="https://www.Facebook.com/richr0" target="_blank" style="font-family: Geneva, Arial; font-size: 9px; color: #330010; text-decoration: none;">
+<center><a href="https://www.Facebook.com/1000053349001465" target="_blank" style="font-family: Geneva, Arial; font-size: 9px; color: #330010; text-decoration: none;">
          </script>
   <br>
 <div id="footer">
 <script language="JavaScript1.2">
 
 
-var message="MADE BY RICHARD ANIM"
+var message="MADE BY IKRAM"
 var neonbasecolor=""
 var neontextcolor="RED"
 var flashspeed=100  //in milliseconds
